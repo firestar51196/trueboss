@@ -1,6 +1,6 @@
 baseURL = "https://dev.trueboss.com.ph/"
 languageCode = "en-us"
-title = "Timer | Responsive Multipurpose Bootstrap Hugo Template"
+title = "TRUE BOSS"
 theme = "timer-hugo"
 
 # We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
@@ -33,8 +33,8 @@ home = "Home"
 logo = "images/logo.png"
 dateFormat = "6 January 2006"
 # Meta data
-description = "Airspace Hugo theme"
-author = "Themefisher"
+description = "Trueboss Philippines"
+author = "Calvin Enriquez"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 # contact form action
@@ -43,21 +43,21 @@ contactFormAction = "#" # contact form works with https://formspree.io
 # Banner Section
 [params.banner]
 enable  = true
-bgImage = "images/slider.jpg"
-heading = "HI, MY NAME IS JONATHON & I AM A"
+bgImage = "images/001.jpg"
+heading = "HI, Welcome to Trueboss!"
 description = "WITH 10 YEARS EXPERIENCE, I'VE OCCUPIED MANY ROLES INCLUDING DIGITAL DESIGN DIRECTOR, WEB DESIGNER AND DEVELOPER. THIS SITE SHOWCASES SOME OF MY WORK."
 # button
 btn     = true
-btnText = "Download More"
-btnURL  = "https://themefisher.com/"
+btnText = "Trueboss Taiwan"
+btnURL  = "http://www.trueboss.com.tw/"
 
 # flip text
 [[params.banner.flipText]]
-title   = "DESIGNER"
+title   = "ENZYME"
 [[params.banner.flipText]]
-title   = "DEVELOPER"
+title   = "MILK"
 [[params.banner.flipText]]
-title   = "FATHER"
+title   = "TEA"
 
 # Homepage About Section
 [params.about]
