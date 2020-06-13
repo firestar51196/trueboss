@@ -45,7 +45,7 @@ contactFormAction = "#" # contact form works with https://formspree.io
 enable  = true
 bgImage = "images/001.jpg"
 heading = "HI, Welcome to Trueboss!"
-description = "WITH 10 YEARS EXPERIENCE, I'VE OCCUPIED MANY ROLES INCLUDING DIGITAL DESIGN DIRECTOR, WEB DESIGNER AND DEVELOPER. THIS SITE SHOWCASES SOME OF MY WORK."
+description = "We offer fruit enzyme based drinks for anyone aged 1 to 100 that make your body glow inside out! Visit Us! True Boss E. Rod True Boss MOA True Boss West Ave"
 # button
 btn     = true
 btnText = "Trueboss Taiwan"
@@ -62,7 +62,7 @@ title   = "TEA"
 # Homepage About Section
 [params.about]
 enable  = true
-title   = "ABOUT ME"
+title   = "ABOUT US"
 content = "Hello, I’m a UI/UX Designer & Front End Developer from Victoria, Australia. I hold a master degree of Web Design from the World University.And scrambled it to make a type specimen book. It has survived not only five centuries. <br> <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, adipisci voluptatum repudiandae, natus impedit repellat aut officia illum at assumenda iusto reiciendis placeat. Temporibus, vero."
 image   = "images/about/about.jpg"
 
@@ -83,12 +83,8 @@ subtitle= "Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque aucto
 # social icon
 [[params.socialIcon]]
 icon = "ion-social-facebook"
-url = "#"
+url = "https://www.facebook.com/truebossph/"
 
 [[params.socialIcon]]
 icon = "ion-social-instagram"
-url = "#"
-
-[[params.socialIcon]]
-icon = "ion-social-linkedin"
-url = "#"
+url = "https://www.instagram.com/truebossph"
