@@ -7,25 +7,25 @@ theme = "timer-hugo"
 
 # Navbar Menus
 [[menu.main]]
-name    = "About"
-url     = "about"
+name    = "Order"
+url     = "order"
 weight  = 2
 [[menu.main]]
-name    = "Service"
-url     = "service"
+name    = "About Us"
+url     = "about"
 weight  = 3
 [[menu.main]]
-name    = "Gallery"
-url     = "gallery"
+name    = "FAQs"
+url     = "faqs"
 weight  = 4
-[[menu.main]]
-name    = "Blog"
-url     = "blog"
-weight  = 5
-[[menu.main]]
-name    = "Contact"
-url     = "contact"
-weight  = 6
+#[[menu.main]]
+#name    = "Blog"
+#url     = "blog"
+#weight  = 5
+#[[menu.main]]
+#name    = "Contact"
+#url     = "contact"
+#weight  = 6
 
 # Site Params
 [params]
@@ -43,13 +43,13 @@ contactFormAction = "#" # contact form works with https://formspree.io
 # Banner Section
 [params.banner]
 enable  = true
-bgImage = "images/001.jpg"
-heading = "HI, Welcome to Trueboss!"
-description = "We offer fruit enzyme based drinks for anyone aged 1 to 100 that make your body glow inside out! Visit Us! True Boss E. Rod True Boss MOA True Boss West Ave"
+bgImage = "images/True_Boss6.jpg"
+#heading = "HI, Welcome to Trueboss!"
+#description = "We offer fruit enzyme based drinks for anyone aged 1 to 100 that make your body glow inside out! Visit Us! True Boss E. Rod True Boss MOA True Boss West Ave"
 # button
 btn     = true
-btnText = "Trueboss Taiwan"
-btnURL  = "http://www.trueboss.com.tw/"
+btnText = "Order Now!"
+btnURL  = "/order"
 
 # flip text
 [[params.banner.flipText]]
