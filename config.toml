@@ -30,7 +30,7 @@ weight  = 4
 # Site Params
 [params]
 home = "Home"
-logo = "images/logo.png"
+logo = "images/TransLogo.png"
 dateFormat = "6 January 2006"
 # Meta data
 description = "Trueboss Philippines"
@@ -43,7 +43,7 @@ contactFormAction = "#" # contact form works with https://formspree.io
 # Banner Section
 [params.banner]
 enable  = true
-bgImage = "images/True_Boss6.jpg"
+bgImage = "images/True_Boss6-2.jpg"
 #heading = "HI, Welcome to Trueboss!"
 #description = "We offer fruit enzyme based drinks for anyone aged 1 to 100 that make your body glow inside out! Visit Us! True Boss E. Rod True Boss MOA True Boss West Ave"
 # button
